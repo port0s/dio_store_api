@@ -182,8 +182,16 @@ Vamos utilizar Pyenv + Poetry, link de como preparar o ambiente abaixo:
 
 [validatores-pydantic](https://docs.pydantic.dev/latest/concepts/validators/)
 
-[model-serializer](https://docs.pydantic.dev/dev/api/functional_serializers/#pydantic.functional_serializers.model_serializer)
+[model-serializer](https://docs.pydantic.dev/dev/api/functional_serializers/#pydantic.functional_serializers.model_serializer)  
 
 [mongo-motor](https://motor.readthedocs.io/en/stable/)
 
 [pytest](https://docs.pytest.org/en/7.4.x/)
+
+
+## Referências  
+[TDD - Desenvolvimento guiado por Testes - Kent Beck](https://github.com/AlexGalhardo/Software-Engineering/blob/master/Book%20-%20TDD%20-%20Desenvolvimento%20Guiado%20por%20Testes%20-%20Ken%20Beck.pdf)  
+
+[C4 Model Reference](https://c4model.com/)  
+
+[UML - Unified Modeling Language](https://www.uml.org/)
